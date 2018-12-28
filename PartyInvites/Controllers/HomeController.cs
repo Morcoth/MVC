@@ -10,8 +10,20 @@ namespace PartyInvites.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public ViewResult Index()
         {
+            var hour = DateTime.Now.Hour;
+            ViewBag.Greeting=hour<12 ? "GoodMorning":"GoodAfternoon";
+            return View("MyView");
+        }
+        
+        [HttpGet]
+        public ViewResult RsvpForm(){
+            return View();
+        }
+        
+        [HttpPost]
+        public ViewResult RsvpForm(GuestResponse guestResponse){
             return View();
         }
 
