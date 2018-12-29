@@ -64,3 +64,5 @@ D:\Core\mvc\partyinvites\obj\Debug\netcoreapp2.2\PartyInvites.pdb
 D:\Core\mvc\partyinvites\obj\Debug\netcoreapp2.2\PartyInvites.csproj.CopyComplete
 D:\Core\mvc\partyinvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\Thanks.g.cshtml.cs
 D:\Core\MVC\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\ListResponses.g.cshtml.cs
+C:\Users\anton.buydalin\Documents\MVC\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\ListResponses.g.cshtml.cs
+C:\Users\anton.buydalin\Documents\MVC\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\Thanks.g.cshtml.cs
